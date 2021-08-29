@@ -63,6 +63,9 @@ Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wi
 
 ## Some handy ones
 
+<img src="images/logo-tmcwizard.png" alt="TMC Wizard" width=100 height=100/>
+
+
 - [TMCAttach](https://github.com/alinahid477/tmc-attach)
 - [TMCRegistration](https://github.com/alinahid477/tmc-registration)
 
