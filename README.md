@@ -30,7 +30,7 @@ Below are some of the toolkits that are available to be consumed now
 ### Jenkins On K8S
 
 
-<img src="images/logo-jenkisonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=100/>
+<img src="images/logo-jenkinsonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=100/>
 
 Read here: [JenkinsOnK8S](https://github.com/alinahid477/jenkinsonk8s)
 
