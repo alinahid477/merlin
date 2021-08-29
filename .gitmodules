@@ -13,3 +13,9 @@
 [submodule "tools/tbsonpubliccloud"]
 	path = tools/tbsonpubliccloud
 	url = https://github.com/alinahid477/tbsonpubliccloud.git
+[submodule "tkg/tkgonaws"]
+	path = tkg/tkgonaws
+	url = https://github.com/alinahid477/tkgonaws.git
+[submodule "tkg/tkgonazure"]
+	path = tkg/tkgonazure
+	url = https://github.com/alinahid477/tkgonazure.git
