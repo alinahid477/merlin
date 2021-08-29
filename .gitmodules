@@ -1,0 +1,15 @@
+[submodule "tools/jenkinsonk8s"]
+	path = tools/jenkinsonk8s
+	url = https://github.com/alinahid477/jenkinsonk8s.git
+[submodule "tools/rabbitmqonk8s"]
+	path = tools/rabbitmqonk8s
+	url = https://github.com/alinahid477/rabbitmqonk8s.git
+[submodule "tools/keycloakonk8s"]
+	path = tools/keycloakonk8s
+	url = https://github.com/alinahid477/keycloakonk8s.git
+[submodule "tools/portainerontanzu"]
+	path = tools/portainerontanzu
+	url = https://github.com/alinahid477/portainerontanzu.git
+[submodule "tools/tbsonpubliccloud"]
+	path = tools/tbsonpubliccloud
+	url = https://github.com/alinahid477/tbsonpubliccloud.git
