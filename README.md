@@ -1,7 +1,7 @@
 # Tanzu Wizard
 
 
-<img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=100 height=100/> 
+<img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=200 height=200/> 
 
 
 Tanzu Wizard is an initiative to improve user experience by simplifying the user experience with few Tanzu Porfolio Components.
