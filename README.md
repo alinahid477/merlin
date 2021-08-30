@@ -4,7 +4,7 @@
 <img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=200 height=200/> 
 
 
-Tanzu Wizard is an initiative to improve user experience by simplifying the user experience with few Tanzu Porfolio Components.
+Tanzu Wizard is an initiative to improve user experience by simplifying interactions and day0 and day1 tasks with Tanzu Portfolio Components.
 
 The way this is achieved are:
 - Providing user with a bootstapped environment using docker.
