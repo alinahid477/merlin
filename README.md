@@ -1,4 +1,4 @@
-# Tanzu Wizard
+# Merlin - Wizard for Tanzu
 
 
 <img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=200 height=200/> 
