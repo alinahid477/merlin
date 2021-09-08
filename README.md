@@ -1,7 +1,7 @@
 # Merlin - Wizard for Tanzu
 
 
-<img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=200 height=200/> 
+<img src="images/logo-tanzuwizard.png" alt="Tanzu Wizard" width=200 height=210/> 
 
 
 Tanzu Wizard is an initiative to improve user experience by simplifying interactions and day0 and day1 tasks with Tanzu Portfolio Components.
@@ -30,21 +30,21 @@ Below are some of the toolkits that are available to be consumed now
 ### Jenkins On K8S
 
 
-<img src="images/logo-jenkinsonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=100/>
+<img src="images/logo-jenkinsonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=95/>
 
 Read here: [JenkinsOnK8S](https://github.com/alinahid477/jenkinsonk8s)
 
 
 ### RabbitMQ on K8S
 
-<img src="images/logo-rabbitmqonk8s.png" alt="RabbitMQ on K8S Wizard" width=100 height=100/>
+<img src="images/logo-rabbitmqonk8s.png" alt="RabbitMQ on K8S Wizard" width=100 height=95/>
 
 Read here: [RabbitMQOnK8S](https://github.com/alinahid477/rabbitmqonk8s)
 
 
 ### Tanzu Build Service Deployment Wizard
 
-<img src="images/logo-tbsonpubliccloud.png" alt="Tanzu Build Service Wizard" width=100 height=100/>
+<img src="images/logo-tbsonpubliccloud.png" alt="Tanzu Build Service Wizard" width=100 height=95/>
 
 Read here: [TBSonPublicCloud](https://github.com/alinahid477/tbsonpubliccloud)
 
@@ -53,7 +53,7 @@ Read here: [TBSonPublicCloud](https://github.com/alinahid477/tbsonpubliccloud)
 
 Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wizard.
 
-<img src="images/logo-tkgonaws.png" alt="TKG on AWS Wizard" width=100 height=100/>                 <img src="images/logo-tkgonazure.png" alt="TKG on Azure Wizard" width=100 height=100/>
+<img src="images/logo-tkgonaws.png" alt="TKG on AWS Wizard" width=100 height=95/>                 <img src="images/logo-tkgonazure.png" alt="TKG on Azure Wizard" width=100 height=95/>
 
 
 
@@ -63,7 +63,7 @@ Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wi
 
 ## Some handy ones
 
-<img src="images/logo-tmcwizard.png" alt="TMC Wizard" width=100 height=100/>
+<img src="images/logo-tmcwizard.png" alt="TMC Wizard" width=100 height=95/>
 
 
 - [TMCAttach](https://github.com/alinahid477/tmc-attach)
