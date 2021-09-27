@@ -27,6 +27,13 @@ The way this is achieved are:
 
 Below are some of the toolkits that are available to be consumed now
 
+### vSphere with Tanzu Wizard
+
+<img src="images/logo-vsphere-with-tanzu.png" alt="vSphere with Tanzu Wizard" width=100 height=110/>
+
+Read here: [vSphere with Tanzu Wizard](https://github.com/alinahid477/vsphere-with-tanzu-wizard)
+
+
 ### Jenkins On K8S
 
 

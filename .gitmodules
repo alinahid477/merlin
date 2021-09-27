@@ -19,3 +19,6 @@
 [submodule "tkg/tkgonazure"]
 	path = tkg/tkgonazure
 	url = https://github.com/alinahid477/tkgonazure.git
+[submodule "tools/vsphere-with-tanzu-wizard"]
+	path = tools/vsphere-with-tanzu-wizard
+	url = https://github.com/alinahid477/vsphere-with-tanzu-wizard.git
