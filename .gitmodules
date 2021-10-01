@@ -22,3 +22,6 @@
 [submodule "tools/vsphere-with-tanzu-wizard"]
 	path = tools/vsphere-with-tanzu-wizard
 	url = https://github.com/alinahid477/vsphere-with-tanzu-wizard.git
+[submodule "tools/tbswizard"]
+	path = tools/tbswizard
+	url = https://github.com/alinahid477/tbswizard.git

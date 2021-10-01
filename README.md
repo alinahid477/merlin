@@ -51,9 +51,9 @@ Read here: [RabbitMQOnK8S](https://github.com/alinahid477/rabbitmqonk8s)
 
 ### Tanzu Build Service Deployment Wizard
 
-<img src="images/logo-tbsonpubliccloud.png" alt="Tanzu Build Service Wizard" width=100 height=110/>
+<img src="images/logo-tbswizard.png" alt="Tanzu Build Service Wizard" width=100 height=110/>
 
-Read here: [TBSonPublicCloud](https://github.com/alinahid477/tbsonpubliccloud)
+Read here: [TBSWizard](https://github.com/alinahid477/tbswizard)
 
 
 ### Tanzu Kubernetes Grid Wizard
