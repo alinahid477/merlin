@@ -60,10 +60,10 @@ Read here: [TBSWizard](https://github.com/alinahid477/tbswizard)
 
 Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wizard.
 
-<img src="images/logo-tkgonaws.png" alt="TKG on AWS Wizard" width=100 height=110/>                 <img src="images/logo-tkgonazure.png" alt="TKG on Azure Wizard" width=100 height=110/>
+<img src="images/logo-tkgonaws.png" alt="TKG on AWS Wizard" width=100 height=110/>                 <img src="images/logo-tkgonazure.png" alt="TKG on Azure Wizard" width=100 height=110/>                 <img src="images/logo-tkgonvsphere.png" alt="TKG on vSphere Wizard" width=100 height=110/>
 
 
-
+- [TKGonvSphere](https://github.com/alinahid477/tkgonvsphere)
 - [TKGonAWS](https://github.com/alinahid477/tkgonaws)
 - [TKGonAzure](https://github.com/alinahid477/tkgonazure)
 
