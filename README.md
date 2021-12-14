@@ -79,5 +79,4 @@ Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wi
 
 ## Coming Soon
 
-- TKG on vSphere
 - vSphere wizard (tunnel, tmc registration, tmc attach, tanzu cluster)
