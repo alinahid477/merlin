@@ -27,6 +27,12 @@ The way this is achieved are:
 
 Below are some of the toolkits that are available to be consumed now
 
+### Tanzu Application Platform Wizard (TAP Wizard)
+
+<img src="images/logo-tap.png" alt="Tanzu TAP Wizard" width=100 height=110/>
+
+Read here: [Merlin's TAP Wizard](https://github.com/alinahid477/tapwizard)
+
 ### vSphere with Tanzu Wizard
 
 <img src="images/logo-vsphere-with-tanzu.png" alt="vSphere with Tanzu Wizard" width=100 height=110/>
@@ -79,4 +85,4 @@ Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wi
 
 ## Coming Soon
 
-- TAP
+- Stuffs
