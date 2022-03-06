@@ -43,19 +43,26 @@ Deployment Management Cluster and Workload clusters with Merlin's Tanzu Kubernet
 
 Read more: [TKGWizard](https://github.com/alinahid477/merlin-tkg)
 
-### vSphere with Tanzu Wizard
+### Merlin's vSphere with Tanzu Wizard
 
 <img src="images/logo-vsphere-with-tanzu.png" alt="vSphere with Tanzu Wizard" width=100 height=110/>
 
 Read here: [vSphere with Tanzu Wizard](https://github.com/alinahid477/vsphere-with-tanzu-wizard)
 
 
-### Jenkins On K8S
+### Merlin's wizard for Jenkins On K8S
 
 
 <img src="images/logo-jenkinsonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=110/>
 
 Read here: [JenkinsOnK8S](https://github.com/alinahid477/jenkinsonk8s)
+
+
+### Merlin's automation for TMC Registration
+
+<img src="images/logo-tmc-registration.png" alt="Merlin's automation for TMC Registration" width=100 height=110/>
+
+- [TMCRegistration](https://github.com/alinahid477/tmc-registration)
 
 
 ### RabbitMQ on K8S
@@ -78,7 +85,6 @@ Read here: [TBSWizard](https://github.com/alinahid477/tbswizard)
 
 
 - [TMCAttach](https://github.com/alinahid477/tmc-attach)
-- [TMCRegistration](https://github.com/alinahid477/tmc-registration)
 
 
 ## Coming Soon

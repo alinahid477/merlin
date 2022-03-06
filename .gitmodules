@@ -31,3 +31,6 @@
 [submodule "tkg/merlin-tkg"]
 	path = tkg/merlin-tkg
 	url = https://github.com/alinahid477/merlin-tkg.git
+[submodule "tools/tmc-registration"]
+	path = tools/tmc-registration
+	url = https://github.com/alinahid477/tmc-registration.git
