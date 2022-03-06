@@ -28,3 +28,6 @@
 [submodule "tools/tapwizard"]
 	path = tools/tapwizard
 	url = https://github.com/alinahid477/tapwizard.git
+[submodule "tkg/merlin-tkg"]
+	path = tkg/merlin-tkg
+	url = https://github.com/alinahid477/merlin-tkg.git

@@ -27,11 +27,21 @@ The way this is achieved are:
 
 Below are some of the toolkits that are available to be consumed now
 
-### Tanzu Application Platform Wizard (TAP Wizard)
+### Merlin's Tanzu Application Platform Wizard (TAP Wizard)
 
 <img src="images/logo-tap.png" alt="Tanzu TAP Wizard" width=100 height=110/>
 
 Read here: [Merlin's TAP Wizard](https://github.com/alinahid477/tapwizard)
+
+
+### Merlin's Tanzu Kubernetes Grid Wizard (TKG Wizard)
+
+Deployment Management Cluster and Workload clusters with Merlin's Tanzu Kubernetes Grid Wizard.
+
+<img src="images/logo-merlin-tkg.png" alt="Merlin TKG" width=100 height=110/>
+
+
+Read more: [TKGWizard](https://github.com/alinahid477/merlin-tkg)
 
 ### vSphere with Tanzu Wizard
 
@@ -60,18 +70,6 @@ Read here: [RabbitMQOnK8S](https://github.com/alinahid477/rabbitmqonk8s)
 <img src="images/logo-tbswizard.png" alt="Tanzu Build Service Wizard" width=100 height=110/>
 
 Read here: [TBSWizard](https://github.com/alinahid477/tbswizard)
-
-
-### Tanzu Kubernetes Grid Wizard
-
-Deployment Management Cluster and Workload cluster with Tanzu Kubernetes Grid Wizard.
-
-<img src="images/logo-tkgonvsphere.png" alt="TKG on vSphere Wizard" width=100 height=110/>                 <img src="images/logo-tkgonaws.png" alt="TKG on AWS Wizard" width=100 height=110/>                 <img src="images/logo-tkgonazure.png" alt="TKG on Azure Wizard" width=100 height=110/>
-
-
-- [TKGonvSphere](https://github.com/alinahid477/tkgonvsphere)
-- [TKGonAWS](https://github.com/alinahid477/tkgonaws)
-- [TKGonAzure](https://github.com/alinahid477/tkgonazure)
 
 
 ## Some handy ones
