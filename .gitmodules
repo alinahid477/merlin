@@ -34,3 +34,6 @@
 [submodule "tools/tmc-registration"]
 	path = tools/tmc-registration
 	url = https://github.com/alinahid477/tmc-registration.git
+[submodule "tools/octantcontainer"]
+	path = tools/octantcontainer
+	url = https://github.com/alinahid477/octantcontainer.git

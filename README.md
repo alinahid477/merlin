@@ -29,7 +29,7 @@ Below are some of the toolkits that are available to be consumed now
 
 ### Merlin's Tanzu Application Platform Wizard (TAP Wizard)
 
-<img src="images/logo-tap.png" alt="Tanzu TAP Wizard" width=100 height=110/>
+<img src="images/logo-tap.png" alt="Merlin TAP Wizard" width=100 height=110/>
 
 Read here: [Merlin's TAP Wizard](https://github.com/alinahid477/tapwizard)
 
@@ -43,9 +43,19 @@ Deployment Management Cluster and Workload clusters with Merlin's Tanzu Kubernet
 
 Read more: [TKGWizard](https://github.com/alinahid477/merlin-tkg)
 
+
+### Merlin's octant wizard
+
+Run octant (a kubernetes GUI) in docker along with some handy tools.
+
+<img src="images/logo-octant.png" alt="Merlin Octant Wizard" width=100 height=110/>
+
+Read more: [MerlinOctant](https://github.com/alinahid477/octantcontainer.git)
+
+
 ### Merlin's vSphere with Tanzu Wizard
 
-<img src="images/logo-vsphere-with-tanzu.png" alt="vSphere with Tanzu Wizard" width=100 height=110/>
+<img src="images/logo-vsphere-with-tanzu.png" alt="Merlin vSphere with Tanzu Wizard" width=100 height=110/>
 
 Read here: [vSphere with Tanzu Wizard](https://github.com/alinahid477/vsphere-with-tanzu-wizard)
 
@@ -53,7 +63,7 @@ Read here: [vSphere with Tanzu Wizard](https://github.com/alinahid477/vsphere-wi
 ### Merlin's wizard for Jenkins On K8S
 
 
-<img src="images/logo-jenkinsonk8s.png" alt="Jenkins on K8S Wizard" width=100 height=110/>
+<img src="images/logo-jenkinsonk8s.png" alt="Merlin Jenkins on K8S Wizard" width=100 height=110/>
 
 Read here: [JenkinsOnK8S](https://github.com/alinahid477/jenkinsonk8s)
 
@@ -67,21 +77,21 @@ Read here: [JenkinsOnK8S](https://github.com/alinahid477/jenkinsonk8s)
 
 ### RabbitMQ on K8S
 
-<img src="images/logo-rabbitmqonk8s.png" alt="RabbitMQ on K8S Wizard" width=100 height=110/>
+<img src="images/logo-rabbitmqonk8s.png" alt="Merlin's RabbitMQ on K8S Wizard" width=100 height=110/>
 
 Read here: [RabbitMQOnK8S](https://github.com/alinahid477/rabbitmqonk8s)
 
 
 ### Tanzu Build Service Deployment Wizard
 
-<img src="images/logo-tbswizard.png" alt="Tanzu Build Service Wizard" width=100 height=110/>
+<img src="images/logo-tbswizard.png" alt="Merlin's Build Service Wizard" width=100 height=110/>
 
 Read here: [TBSWizard](https://github.com/alinahid477/tbswizard)
 
 
 ## Some handy ones
 
-<img src="images/logo-tmcwizard.png" alt="TMC Wizard" width=100 height=110/>
+<img src="images/logo-tmcwizard.png" alt="Merlin's TMC Wizard" width=100 height=110/>
 
 
 - [TMCAttach](https://github.com/alinahid477/tmc-attach)
